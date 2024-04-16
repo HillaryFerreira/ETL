@@ -16,5 +16,16 @@
   <li>Cada tabela mostra o ID do produto, o nome do produto, a quantidade vendida, o preço unitário e o valor total das vendas para cada produto.</li>
   <li>As tabelas também incluem informações sobre o total de vendas de cada filial, além dos dados específicos de cada produto vendido.</li>
 </ul>
-<h2>Em reusmo:</h2>
-<p>Com base nos dados apresentados que foram obtidos através da execução do código que esta em uma pasta própria, é notório que os dados foram devidamente processados, transformados e armazenados em diferentes formatos para análise posterior das vendas das filiais. </p>
+<h2>Resultados:</h2>
+![resultado1](https://github.com/HillaryFerreira/ETL/assets/129438048/08451544-24c5-4a0f-af9a-4c2db5bfbb5c)
+![resultado2](https://github.com/HillaryFerreira/ETL/assets/129438048/58a4ec20-3e23-453f-bd71-a0de2f6e7fd3)
+![resultado3](https://github.com/HillaryFerreira/ETL/assets/129438048/82ad143b-9d3a-4ff2-a085-c8cada6df292)
+![resultado4](https://github.com/HillaryFerreira/ETL/assets/129438048/b40a42e7-718b-4637-9927-574d12b47b7b)
+![resultado5](https://github.com/HillaryFerreira/ETL/assets/129438048/3a8c3d71-76e5-4c74-b910-f96042b4d2ea)
+![resultado6](https://github.com/HillaryFerreira/ETL/assets/129438048/40b8ce87-b395-4144-a667-f3978e6b7d7e)
+
+
+
+
+
+
