@@ -23,6 +23,9 @@
 ![resultado4](https://github.com/HillaryFerreira/ETL/assets/129438048/b40a42e7-718b-4637-9927-574d12b47b7b)
 ![resultado5](https://github.com/HillaryFerreira/ETL/assets/129438048/3a8c3d71-76e5-4c74-b910-f96042b4d2ea)
 ![resultado6](https://github.com/HillaryFerreira/ETL/assets/129438048/40b8ce87-b395-4144-a667-f3978e6b7d7e)
+<a href="https://github.com/HillaryFerreira/ETL/assets/129438048/08451544-24c5-4a0f-af9a-4c2db5bfbb5c">Resultado1</a>
+<a href="https://github.com/HillaryFerreira/ETL/assets/129438048/58a4ec20-3e23-453f-bd71-a0de2f6e7fd3">Resultado2</a>
+
 
 
 
