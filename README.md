@@ -16,7 +16,7 @@
   <li>Cada tabela mostra o ID do produto, o nome do produto, a quantidade vendida, o preço unitário e o valor total das vendas para cada produto.</li>
   <li>As tabelas também incluem informações sobre o total de vendas de cada filial, além dos dados específicos de cada produto vendido.</li>
 </ul>
-<h2>Resultados:</h2>
+<h2>Resultados:(imagens)</h2>
 <a href="https://github.com/HillaryFerreira/ETL/assets/129438048/08451544-24c5-4a0f-af9a-4c2db5bfbb5c">Resultado1</a><br>
 <a href="https://github.com/HillaryFerreira/ETL/assets/129438048/58a4ec20-3e23-453f-bd71-a0de2f6e7fd3">Resultado2</a><br>
 <a href="https://github.com/HillaryFerreira/ETL/assets/129438048/82ad143b-9d3a-4ff2-a085-c8cada6df292">Resultado3</a><br>
